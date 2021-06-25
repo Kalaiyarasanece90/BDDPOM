@@ -1,4 +1,4 @@
-Feature: CRM Login validation
+Feature: CRM Login page validation
 
 Scenario: Valid Login test
 Given Launch the url
