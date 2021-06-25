@@ -41,6 +41,7 @@ public class CRMStepdef extends BaseTest{
 
 	@Then("Close the browser")
 	public void close_the_browser() {
+		System.Out.Println("Closing the browser");
 		driver.close();
 	}
 	
